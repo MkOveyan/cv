@@ -75,3 +75,14 @@ if (age >= 14 && age <= 90) {
   alert("Вы не допущены");
 }
 ~~~
+
+## Education
+### Moscow Power Engineering Institute (National Research University)
+*Bachelor's Degree in Advertising and Public Relations*
+
+### State Budgetary Professional Educational Institution of Moscow Region
+*Serpukhov College of Information Systems*
+*Associate Degree in Information Systems*
+
+## English
+Currently self-studying English with a proficiency level of A1.
