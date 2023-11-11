@@ -18,6 +18,7 @@ I am eager to join a dynamic team where I can unleash my potential, learn from e
     Familiarity with Notion and DevAjure.
 
 ## Code examples
+~~~js
     let m;
     
     for (n = 0; n < 10; n++) {
@@ -25,10 +26,11 @@ I am eager to join a dynamic team where I can unleash my potential, learn from e
       if (n % 2 == 0) continue;
       alert(n);
     }
+~~~
 
 ## Experience
 - HTML
-'''html
+~~~html
 <h2>Форма поиска</h2>
 <form>
     <label>
@@ -43,4 +45,33 @@ I am eager to join a dynamic team where I can unleash my potential, learn from e
   </select>
     <button>Искать</button>
 </form> 
-'''
+~~~
+- CSS
+~~~css
+<style>
+    @keyframes whitetextblack {
+        0% {
+            color: white;
+        }
+        50% {
+            color: black;
+        }
+    }
+    .black-white {
+        animation: whitetextblack 3s infinite;
+    }
+    </style>
+
+    <p class="black-white"> Анимированный текст </p>
+~~~
+- JS
+~~~js
+let age = prompt('Введите возраст','');
+
+
+if (age >= 14 && age <= 90) {
+  alert("Вы допущены");
+} else {
+  alert("Вы не допущены");
+}
+~~~
