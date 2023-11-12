@@ -29,52 +29,13 @@ I am eager to join a dynamic team where I can unleash my potential, learn from e
 ~~~
 
 ## Experience
-- HTML
-~~~html
-<h2>Форма поиска</h2>
-<form>
-    <label>
-    Введите ваш запрос
-    <input type="search">
-  </label>
-    <br>
-    <select>
-    <option disabled>В каком разделе искать?</option>
-    <option>Товары</option>
-    <option>Услуги</option>
-  </select>
-    <button>Искать</button>
-</form> 
-~~~
-- CSS
-~~~css
-<style>
-    @keyframes whitetextblack {
-        0% {
-            color: white;
-        }
-        50% {
-            color: black;
-        }
-    }
-    .black-white {
-        animation: whitetextblack 3s infinite;
-    }
-    </style>
+### Web Development Foundations
+*Code-basics*
+- Acquired foundational knowledge in HTML and CSS through the Code-basics platform.
 
-    <p class="black-white"> Анимированный текст </p>
-~~~
-- JS
-~~~js
-let age = prompt('Введите возраст','');
-
-
-if (age >= 14 && age <= 90) {
-  alert("Вы допущены");
-} else {
-  alert("Вы не допущены");
-}
-~~~
+### Independent Study of JavaScript
+*Learn JavaScript Textbook*
+- Currently engaged in self-directed learning of JavaScript fundamentals using the "learn.javascript" textbook.
 
 ## Education
 ### Moscow Power Engineering Institute (National Research University)
